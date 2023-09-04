@@ -20,7 +20,7 @@ Tenho 15 anos, moro em São José Das Palmeiras/pr e sou aluna da diciplina de p
 </code>
 <code>
   
-<img windth"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img windth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </code>
 <code>
 
