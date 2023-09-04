@@ -13,3 +13,23 @@ Tenho 15 anos, moro em São José Das Palmeiras/pr e sou aluna da diciplina de p
 
 </br>
 </br>
+
+### Tecnologias e Ferramentas:
+<code>
+<img windth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+</code>
+<code>
+  
+<img windth"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+</code>
+<code>
+
+<img windth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+</code>
+<code>
+
+  <img windth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+</code>
+<code>
+<img windth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
